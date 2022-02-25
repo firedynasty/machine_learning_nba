@@ -1,0 +1,94 @@
+DATE,VISITOR,VISITOR_PTS,HOME,HOME_PTS
+2021-11-15,Boston Celtics,98.0,Cleveland Cavaliers,92.0
+2021-11-16,Golden State Warriors,117.0,Brooklyn Nets,99.0
+2021-11-17,Washington Wizards,87.0,Charlotte Hornets,97.0
+2021-11-18,Golden State Warriors,104.0,Cleveland Cavaliers,89.0
+2021-11-19,Indiana Pacers,118.0,Charlotte Hornets,121.0
+2021-11-20,Houston Rockets,99.0,New York Knicks,106.0
+2021-11-21,Dallas Mavericks,91.0,Los Angeles Clippers,97.0
+2021-11-22,Brooklyn Nets,117.0,Cleveland Cavaliers,112.0
+2021-11-23,Miami Heat,100.0,Detroit Pistons,92.0
+2021-11-24,Phoenix Suns,120.0,Cleveland Cavaliers,115.0
+2021-11-26,Detroit Pistons,96.0,Los Angeles Clippers,107.0
+2021-11-27,Minnesota Timberwolves,121.0,Philadelphia 76ers,120.0
+2021-11-28,Golden State Warriors,105.0,Los Angeles Clippers,90.0
+2021-11-29,Orlando Magic,96.0,Philadelphia 76ers,101.0
+2021-11-30,New York Knicks,110.0,Brooklyn Nets,112.0
+2021-12-01,Atlanta Hawks,114.0,Indiana Pacers,111.0
+2021-12-02,Chicago Bulls,119.0,New York Knicks,115.0
+2021-12-03,Miami Heat,113.0,Indiana Pacers,104.0
+2021-12-04,Denver Nuggets,113.0,New York Knicks,99.0
+2021-12-05,Utah Jazz,109.0,Cleveland Cavaliers,108.0
+2021-12-06,Philadelphia 76ers,127.0,Charlotte Hornets,124.0
+2021-12-07,Brooklyn Nets,102.0,Dallas Mavericks,99.0
+2021-12-08,Philadelphia 76ers,110.0,Charlotte Hornets,106.0
+2021-12-09,Utah Jazz,118.0,Philadelphia 76ers,96.0
+2021-12-10,Sacramento Kings,123.0,Charlotte Hornets,124.0
+2021-12-11,Orlando Magic,104.0,Los Angeles Clippers,106.0
+2021-12-12,Milwaukee Bucks,112.0,New York Knicks,97.0
+2021-12-13,Miami Heat,94.0,Cleveland Cavaliers,105.0
+2021-12-14,Toronto Raptors,129.0,Brooklyn Nets,131.0
+2021-12-15,Houston Rockets,89.0,Cleveland Cavaliers,124.0
+2021-12-16,Detroit Pistons,113.0,Indiana Pacers,122.0
+2021-12-17,Miami Heat,115.0,Orlando Magic,105.0
+2021-12-18,Houston Rockets,116.0,Detroit Pistons,107.0
+2021-12-19,Miami Heat,90.0,Detroit Pistons,100.0
+2021-12-20,Philadelphia 76ers,108.0,Boston Celtics,103.0
+2021-12-21,Indiana Pacers,96.0,Miami Heat,125.0
+2021-12-22,Orlando Magic,104.0,Atlanta Hawks,98.0
+2021-12-23,Houston Rockets,106.0,Indiana Pacers,118.0
+2021-12-25,Atlanta Hawks,87.0,New York Knicks,101.0
+2021-12-26,Orlando Magic,83.0,Miami Heat,93.0
+2021-12-27,Houston Rockets,99.0,Charlotte Hornets,123.0
+2021-12-28,Milwaukee Bucks,127.0,Orlando Magic,110.0
+2021-12-29,New York Knicks,94.0,Detroit Pistons,85.0
+2021-12-30,Philadelphia 76ers,110.0,Brooklyn Nets,102.0
+2021-12-31,Phoenix Suns,108.0,Boston Celtics,123.0
+2022-01-01,New Orleans Pelicans,113.0,Milwaukee Bucks,136.0
+2022-01-02,New York Knicks,105.0,Toronto Raptors,120.0
+2022-01-03,Houston Rockets,113.0,Philadelphia 76ers,133.0
+2022-01-04,Memphis Grizzlies,110.0,Cleveland Cavaliers,106.0
+2022-01-05,Detroit Pistons,111.0,Charlotte Hornets,140.0
+2022-01-06,Boston Celtics,105.0,New York Knicks,108.0
+2022-01-07,San Antonio Spurs,100.0,Philadelphia 76ers,119.0
+2022-01-08,Memphis Grizzlies,123.0,Los Angeles Clippers,108.0
+2022-01-09,San Antonio Spurs,119.0,Brooklyn Nets,121.0
+2022-01-10,Milwaukee Bucks,99.0,Charlotte Hornets,103.0
+2022-01-11,Oklahoma City Thunder,118.0,Washington Wizards,122.0
+2022-01-12,Boston Celtics,119.0,Indiana Pacers,100.0
+2022-01-13,Golden State Warriors,99.0,Milwaukee Bucks,118.0
+2022-01-14,Orlando Magic,116.0,Charlotte Hornets,109.0
+2022-01-15,Toronto Raptors,103.0,Milwaukee Bucks,96.0
+2022-01-16,Phoenix Suns,135.0,Detroit Pistons,108.0
+2022-01-17,New Orleans Pelicans,92.0,Boston Celtics,104.0
+2022-01-18,Minnesota Timberwolves,112.0,New York Knicks,110.0
+2022-01-19,Orlando Magic,110.0,Philadelphia 76ers,123.0
+2022-01-20,Phoenix Suns,109.0,Dallas Mavericks,101.0
+2022-01-21,Oklahoma City Thunder,98.0,Charlotte Hornets,121.0
+2022-01-22,Sacramento Kings,127.0,Milwaukee Bucks,133.0
+2022-01-23,Los Angeles Clippers,102.0,New York Knicks,110.0
+2022-01-24,New York Knicks,93.0,Cleveland Cavaliers,95.0
+2022-01-25,Denver Nuggets,110.0,Detroit Pistons,105.0
+2022-01-26,Milwaukee Bucks,99.0,Cleveland Cavaliers,115.0
+2022-01-27,Los Angeles Lakers,87.0,Philadelphia 76ers,105.0
+2022-01-28,Detroit Pistons,103.0,Orlando Magic,119.0
+2022-01-29,Indiana Pacers,105.0,Dallas Mavericks,132.0
+2022-01-30,Los Angeles Lakers,121.0,Atlanta Hawks,129.0
+2022-01-31,New Orleans Pelicans,90.0,Cleveland Cavaliers,93.0
+2022-02-01,New Orleans Pelicans,111.0,Detroit Pistons,101.0
+2022-02-02,Orlando Magic,119.0,Indiana Pacers,118.0
+2022-02-03,Minnesota Timberwolves,128.0,Detroit Pistons,117.0
+2022-02-04,Cleveland Cavaliers,102.0,Charlotte Hornets,101.0
+2022-02-05,Memphis Grizzlies,135.0,Orlando Magic,115.0
+2022-02-06,Philadelphia 76ers,119.0,Chicago Bulls,108.0
+2022-02-07,Toronto Raptors,116.0,Charlotte Hornets,101.0
+2022-02-08,Phoenix Suns,114.0,Philadelphia 76ers,109.0
+2022-02-09,San Antonio Spurs,92.0,Cleveland Cavaliers,105.0
+2022-02-10,Memphis Grizzlies,132.0,Detroit Pistons,107.0
+2022-02-11,Charlotte Hornets,141.0,Detroit Pistons,119.0
+2022-02-12,New York Knicks,103.0,Portland Trail Blazers,112.0
+2022-02-13,Atlanta Hawks,95.0,Boston Celtics,105.0
+2022-02-14,Detroit Pistons,94.0,Washington Wizards,103.0
+2022-02-15,Cleveland Cavaliers,116.0,Atlanta Hawks,124.0
+2022-02-16,Atlanta Hawks,130.0,Orlando Magic,109.0
+2022-02-17,Miami Heat,111.0,Charlotte Hornets,107.0

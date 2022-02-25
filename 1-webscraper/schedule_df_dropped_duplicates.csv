@@ -1,0 +1,122 @@
+DATE,VISITOR,VISITOR_PTS,HOME,HOME_PTS
+10/19/21,Brooklyn Nets,104,Milwaukee Bucks,127
+10/20/21,Indiana Pacers,122,Charlotte Hornets,123
+10/21/21,Dallas Mavericks,87,Atlanta Hawks,113
+10/22/21,New York Knicks,121,Orlando Magic,96
+10/23/21,Atlanta Hawks,95,Cleveland Cavaliers,101
+10/24/21,Charlotte Hornets,111,Brooklyn Nets,95
+10/25/21,Boston Celtics,140,Charlotte Hornets,129
+10/26/21,Philadelphia 76ers,99,New York Knicks,112
+10/27/21,Charlotte Hornets,120,Orlando Magic,111
+10/28/21,Atlanta Hawks,111,Washington Wizards,122
+10/29/21,Orlando Magic,109,Toronto Raptors,110
+10/30/21,Boston Celtics,112,Washington Wizards,115
+10/31/21,Sacramento Kings,99,Dallas Mavericks,105
+11/1/21,Cleveland Cavaliers,113,Charlotte Hornets,110
+11/2/21,Milwaukee Bucks,117,Detroit Pistons,89
+11/3/21,Portland Trail Blazers,104,Cleveland Cavaliers,107
+11/4/21,Philadelphia 76ers,109,Detroit Pistons,98
+11/5/21,Brooklyn Nets,96,Detroit Pistons,90
+11/6/21,Houston Rockets,94,Denver Nuggets,95
+11/7/21,Brooklyn Nets,116,Toronto Raptors,103
+11/8/21,New York Knicks,103,Philadelphia 76ers,96
+11/9/21,Milwaukee Bucks,118,Philadelphia 76ers,109
+11/10/21,Washington Wizards,97,Cleveland Cavaliers,94
+11/11/21,Toronto Raptors,115,Philadelphia 76ers,109
+11/12/21,New York Knicks,96,Charlotte Hornets,104
+11/13/21,Miami Heat,111,Utah Jazz,105
+11/14/21,San Antonio Spurs,106,Los Angeles Lakers,114
+11/15/21,Boston Celtics,98,Cleveland Cavaliers,92
+11/16/21,Golden State Warriors,117,Brooklyn Nets,99
+11/17/21,Washington Wizards,87,Charlotte Hornets,97
+11/18/21,Golden State Warriors,104,Cleveland Cavaliers,89
+11/19/21,Indiana Pacers,118,Charlotte Hornets,121
+11/20/21,Houston Rockets,99,New York Knicks,106
+11/21/21,Dallas Mavericks,91,Los Angeles Clippers,97
+11/22/21,Brooklyn Nets,117,Cleveland Cavaliers,112
+11/23/21,Miami Heat,100,Detroit Pistons,92
+11/24/21,Phoenix Suns,120,Cleveland Cavaliers,115
+11/26/21,Detroit Pistons,96,Los Angeles Clippers,107
+11/27/21,Minnesota Timberwolves,121,Philadelphia 76ers,120
+11/28/21,Golden State Warriors,105,Los Angeles Clippers,90
+11/29/21,Orlando Magic,96,Philadelphia 76ers,101
+11/30/21,New York Knicks,110,Brooklyn Nets,112
+12/1/21,Atlanta Hawks,114,Indiana Pacers,111
+12/2/21,Chicago Bulls,119,New York Knicks,115
+12/3/21,Miami Heat,113,Indiana Pacers,104
+12/4/21,Denver Nuggets,113,New York Knicks,99
+12/5/21,Utah Jazz,109,Cleveland Cavaliers,108
+12/6/21,Philadelphia 76ers,127,Charlotte Hornets,124
+12/7/21,Brooklyn Nets,102,Dallas Mavericks,99
+12/8/21,Philadelphia 76ers,110,Charlotte Hornets,106
+12/9/21,Utah Jazz,118,Philadelphia 76ers,96
+12/10/21,Sacramento Kings,123,Charlotte Hornets,124
+12/11/21,Orlando Magic,104,Los Angeles Clippers,106
+12/12/21,Milwaukee Bucks,112,New York Knicks,97
+12/13/21,Miami Heat,94,Cleveland Cavaliers,105
+12/14/21,Toronto Raptors,129,Brooklyn Nets,131
+12/15/21,Houston Rockets,89,Cleveland Cavaliers,124
+12/16/21,Detroit Pistons,113,Indiana Pacers,122
+12/17/21,Miami Heat,115,Orlando Magic,105
+12/18/21,Houston Rockets,116,Detroit Pistons,107
+12/19/21,Miami Heat,90,Detroit Pistons,100
+12/20/21,Philadelphia 76ers,108,Boston Celtics,103
+12/21/21,Indiana Pacers,96,Miami Heat,125
+12/22/21,Orlando Magic,104,Atlanta Hawks,98
+12/23/21,Houston Rockets,106,Indiana Pacers,118
+12/25/21,Atlanta Hawks,87,New York Knicks,101
+12/26/21,Orlando Magic,83,Miami Heat,93
+12/27/21,Houston Rockets,99,Charlotte Hornets,123
+12/28/21,Milwaukee Bucks,127,Orlando Magic,110
+12/29/21,New York Knicks,94,Detroit Pistons,85
+12/30/21,Philadelphia 76ers,110,Brooklyn Nets,102
+12/31/21,Phoenix Suns,108,Boston Celtics,123
+1/1/22,New Orleans Pelicans,113,Milwaukee Bucks,136
+1/2/22,New York Knicks,105,Toronto Raptors,120
+1/3/22,Houston Rockets,113,Philadelphia 76ers,133
+1/4/22,Memphis Grizzlies,110,Cleveland Cavaliers,106
+1/5/22,Detroit Pistons,111,Charlotte Hornets,140
+1/6/22,Boston Celtics,105,New York Knicks,108
+1/7/22,San Antonio Spurs,100,Philadelphia 76ers,119
+1/8/22,Memphis Grizzlies,123,Los Angeles Clippers,108
+1/9/22,San Antonio Spurs,119,Brooklyn Nets,121
+1/10/22,Milwaukee Bucks,99,Charlotte Hornets,103
+1/11/22,Oklahoma City Thunder,118,Washington Wizards,122
+1/12/22,Boston Celtics,119,Indiana Pacers,100
+1/13/22,Golden State Warriors,99,Milwaukee Bucks,118
+1/14/22,Orlando Magic,116,Charlotte Hornets,109
+1/15/22,Toronto Raptors,103,Milwaukee Bucks,96
+1/16/22,Phoenix Suns,135,Detroit Pistons,108
+1/17/22,New Orleans Pelicans,92,Boston Celtics,104
+1/18/22,Minnesota Timberwolves,112,New York Knicks,110
+1/19/22,Orlando Magic,110,Philadelphia 76ers,123
+1/20/22,Phoenix Suns,109,Dallas Mavericks,101
+1/21/22,Oklahoma City Thunder,98,Charlotte Hornets,121
+1/22/22,Sacramento Kings,127,Milwaukee Bucks,133
+1/23/22,Los Angeles Clippers,102,New York Knicks,110
+1/24/22,New York Knicks,93,Cleveland Cavaliers,95
+1/25/22,Denver Nuggets,110,Detroit Pistons,105
+1/26/22,Milwaukee Bucks,99,Cleveland Cavaliers,115
+1/27/22,Los Angeles Lakers,87,Philadelphia 76ers,105
+1/28/22,Detroit Pistons,103,Orlando Magic,119
+1/29/22,Indiana Pacers,105,Dallas Mavericks,132
+1/30/22,Los Angeles Lakers,121,Atlanta Hawks,129
+1/31/22,New Orleans Pelicans,90,Cleveland Cavaliers,93
+2/1/22,New Orleans Pelicans,111,Detroit Pistons,101
+2/2/22,Orlando Magic,119,Indiana Pacers,118
+2/3/22,Minnesota Timberwolves,128,Detroit Pistons,117
+2/4/22,Cleveland Cavaliers,102,Charlotte Hornets,101
+2/5/22,Memphis Grizzlies,135,Orlando Magic,115
+2/6/22,Philadelphia 76ers,119,Chicago Bulls,108
+2/7/22,Toronto Raptors,116,Charlotte Hornets,101
+2/8/22,Phoenix Suns,114,Philadelphia 76ers,109
+2/9/22,San Antonio Spurs,92,Cleveland Cavaliers,105
+2/10/22,Memphis Grizzlies,132,Detroit Pistons,107
+2/11/22,Charlotte Hornets,141,Detroit Pistons,119
+2/12/22,New York Knicks,103,Portland Trail Blazers,112
+2/13/22,Atlanta Hawks,95,Boston Celtics,105
+2/14/22,Detroit Pistons,94,Washington Wizards,103
+2/15/22,Cleveland Cavaliers,116,Atlanta Hawks,124
+2/16/22,Atlanta Hawks,130,Orlando Magic,109
+2/17/22,Miami Heat,111,Charlotte Hornets,107
+2/24/22,Cleveland Cavaliers,0,Detroit Pistons,0
